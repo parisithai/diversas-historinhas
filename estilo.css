@@ -1,0 +1,83 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Arial;
+    
+}
+
+
+.main {
+    text-align: center;
+    padding: 40px;
+}
+header {
+    background-color: #7be0ff;
+    height: 100px;
+}
+#meioheader {
+    height: 20px;
+    padding: 40px;
+}
+#meioheader div {
+    float: left;
+    font-weight: bold;
+    font-size: 60pt;
+}
+#meioheader nav {
+    float: right;
+}
+#meioheader nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    width: 60px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+.selectedMenu,
+#meioheader nav a:hover {
+    background-color: #ffffff;
+}
+.Fonte {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Title{
+    text-decoration: none;
+    text-align: center;
+    background-color: #7be0ff;
+}
+.imagem1{
+    text-align: center;
+}
+.primeira{
+    border: 10px solid rgb(109, 221, 255);
+    border-radius: 5px;
+}
+.Title2{
+    text-decoration: none;
+    text-align: center;
+    background-color: #7be0ff;
+
+}
+.imagem2{
+    text-align: center;
+}
+.linha2{
+    border: 10px solid rgb(109, 221, 255);
+    border-radius: 5px;
+}
+.title3{
+    text-decoration: none;
+    text-align: center;
+    background-color: #7be0ff;
+
+}
+
+
+.imagem3{
+    text-align: center;
+}
+.fim{
+    background-color: #7be0ff;
+}

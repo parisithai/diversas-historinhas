@@ -1,0 +1,95 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Arial;
+    background-color: #080a0a;
+}
+
+.main {
+    text-align: center;
+    padding: 40px;
+}
+
+.letras1{
+    color: aliceblue;
+}
+
+header {
+    background-color: #080a0a;
+    height: 100px;
+}
+
+#meioheader div {
+    float: left;
+    font-weight: bold;
+    font-size: 60pt;
+}
+#meioheader nav {
+    float: right;
+}
+#meioheader nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    width: 60px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+
+}
+.selectedMenu,
+#meioheader nav a:hover {
+    background-color:aliceblue;
+    
+}
+.sub{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #da1f1f;
+    
+
+}
+
+.title1{
+    text-decoration: none;
+    text-align: center;
+    color: #da1f1f;
+    
+}
+.titulo2{
+    text-decoration: none;
+    text-align: center;
+    background-color: #080a0a;
+    color: #da1f1f;
+    
+}
+.img1{
+    text-align: center;
+}
+.font1{
+    color: aliceblue;
+}
+.historinha2{
+    text-decoration: none;
+    text-align: center;
+    background-color: #080a0a;
+    color: #da1f1f;}
+
+.img2{
+text-align: center;
+    }
+    .title3{
+    text-decoration: none;
+    text-align: center;
+    background-color: #080a0a;
+    color: #da1f1f;
+    }
+.img3{
+    text-align: center;
+}
+.font3{
+    color: aliceblue;
+    
+}
+.small1{
+    color: aliceblue;
+}

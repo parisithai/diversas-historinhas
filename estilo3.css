@@ -1,0 +1,48 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Arial;
+    background-color: #ffffff;
+    background-image: url(infantil.jfif);
+}
+.main {
+    text-align: center;
+    padding: 40px;
+}
+header {
+    background-color: #7be0ff;
+    height: 100px;
+}
+#meioheader {
+    height: 20px;
+    padding: 40px;
+}
+#meioheader nav {
+    float: right;
+}
+#meioheader nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    width: 60px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+.selectedMenu,
+#meioheader nav a:hover {
+    background-color: #ffffff;
+}
+.formulario{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#7be0ff;
+    border-radius: 30px 10px;
+}
+h1{
+    text-align: center;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
